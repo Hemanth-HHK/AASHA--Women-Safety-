@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\ac9898c35ae5dc88d09b62d60c48ed22\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1460c6c6a61a15263898b8065bed8020\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ebae898162603b30fa5c6baad8cde97\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ca6f5d3d2f5de05f8d5563d39d223dd\play-services-location-11.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\0b978ba95fcc1574c1626262eb8607ac\play-services-tasks-11.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\feaf15996b538cd99a1bf4693f4d279f\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\f5cc7273a29a9b8b84dc5c18ce72e21e\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1eb7a16e5374700d031d9b947ae3e1fa\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\cc3f7bde466deb0468a85f844794be18\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\62b749cbf018a785d806727e0cd5cd1c\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\bad6f9dc0e7124aafc895ba364be074a\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\73531814e83a3f939109c098b69803df\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\17ce60bce7201eb9252d9657baa206d3\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1d880eaebfc3a3366f03328a92f673dc\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\66237719ff0203ecb2bb9da132943ed0\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\61123fadad6b86231f02264363e8fff7\play-services-location-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\034baf61ecc76093c6473880869d6c7d\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\55ba849a3c8a045c874d3c83b65a8453\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\716c1f7e2978d8176cc919902ad5ed92\play-services-base-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\167a42ffe04293bbfd266c8d78c26632\play-services-basement-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8767f9e832bd76545eebe6f8f59ef62a\play-services-tasks-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\379966e143550e1442447a14fea1645d\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\b60d0bcb4f2e634c007f39000166f8b0\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+	package
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:1-113:12
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:6:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:15:22-66
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:17:22-71
+uses-feature#android.hardware.microphone
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:21:9-51
+uses-feature#android.hardware.telephony
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:24:9-50
+uses-feature#android.hardware.camera
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:27:5-60
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:27:19-57
+uses-feature#android.hardware.location
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:28:5-30:35
+	android:required
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:30:9-32
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:29:9-49
+uses-feature#android.hardware.location.gps
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:31:5-33:35
+	android:required
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:33:9-32
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:32:9-53
+application
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:35:5-111:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ebae898162603b30fa5c6baad8cde97\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ebae898162603b30fa5c6baad8cde97\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ca6f5d3d2f5de05f8d5563d39d223dd\play-services-location-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ca6f5d3d2f5de05f8d5563d39d223dd\play-services-location-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\0b978ba95fcc1574c1626262eb8607ac\play-services-tasks-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\0b978ba95fcc1574c1626262eb8607ac\play-services-tasks-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\61123fadad6b86231f02264363e8fff7\play-services-location-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\61123fadad6b86231f02264363e8fff7\play-services-location-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\716c1f7e2978d8176cc919902ad5ed92\play-services-base-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\716c1f7e2978d8176cc919902ad5ed92\play-services-base-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\167a42ffe04293bbfd266c8d78c26632\play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\167a42ffe04293bbfd266c8d78c26632\play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8767f9e832bd76545eebe6f8f59ef62a\play-services-tasks-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8767f9e832bd76545eebe6f8f59ef62a\play-services-tasks-license-11.8.0\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:38:9-30
+	android:icon
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:37:9-40
+	android:allowBackup
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:39:9-40
+activity#com.example.Team7.Aasha.Splash
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:41:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.example.Team7.Aasha.MainActivity
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:49:9-51:52
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:50:13-64
+activity#com.example.Team7.Aasha.PeopleSecond
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:53:13-64
+receiver#com.example.Team7.Aasha.VolumeChangeReceiver
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:56:9-60:20
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:56:19-78
+intent-filter#action:name:android.media.VOLUME_CHANGED_ACTION
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:57:13-59:29
+action#android.media.VOLUME_CHANGED_ACTION
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:58:17-78
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:58:25-75
+activity#com.example.Team7.Aasha.People
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:62:9-64:52
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:63:13-58
+activity#com.example.Team7.Aasha.Help
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:65:9-67:61
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:66:13-56
+activity#com.example.Team7.Aasha.NavigationAlert
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:68:9-72:59
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:70:13-68
+	android:theme
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:72:13-56
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:69:13-67
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:82:9-84:55
+	android:value
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:84:13-52
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:83:13-58
+activity#com.example.Team7.Aasha.NavigationComplaint
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:86:9-88:61
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:87:13-71
+activity#com.example.Team7.Aasha.TabBars
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:89:9-91:61
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:90:13-59
+activity#com.example.Team7.Aasha.AboutUs
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:92:9-94:61
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:93:13-59
+activity#com.example.Team7.Aasha.RecievedCall
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:95:9-97:61
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:96:13-64
+activity#com.example.Team7.Aasha.VoiceCallActivity
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:98:9-100:61
+	android:screenOrientation
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:99:13-69
+receiver#com.example.Team7.Aasha.MyBroadcastReceiver
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:103:9-89
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:103:19-77
+receiver#com.example.Team7.Aasha.CallBReciever
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:104:9-109:20
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:104:19-71
+intent-filter#action:name:call
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:106:13-108:29
+action#call
+ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:107:17-54
+	android:name
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:107:25-44
+uses-sdk
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\ac9898c35ae5dc88d09b62d60c48ed22\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\ac9898c35ae5dc88d09b62d60c48ed22\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1460c6c6a61a15263898b8065bed8020\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1460c6c6a61a15263898b8065bed8020\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ebae898162603b30fa5c6baad8cde97\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ebae898162603b30fa5c6baad8cde97\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ca6f5d3d2f5de05f8d5563d39d223dd\play-services-location-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8ca6f5d3d2f5de05f8d5563d39d223dd\play-services-location-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\0b978ba95fcc1574c1626262eb8607ac\play-services-tasks-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\0b978ba95fcc1574c1626262eb8607ac\play-services-tasks-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\feaf15996b538cd99a1bf4693f4d279f\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\feaf15996b538cd99a1bf4693f4d279f\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\f5cc7273a29a9b8b84dc5c18ce72e21e\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\f5cc7273a29a9b8b84dc5c18ce72e21e\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1eb7a16e5374700d031d9b947ae3e1fa\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1eb7a16e5374700d031d9b947ae3e1fa\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\cc3f7bde466deb0468a85f844794be18\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\cc3f7bde466deb0468a85f844794be18\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\62b749cbf018a785d806727e0cd5cd1c\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\62b749cbf018a785d806727e0cd5cd1c\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\bad6f9dc0e7124aafc895ba364be074a\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\bad6f9dc0e7124aafc895ba364be074a\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\73531814e83a3f939109c098b69803df\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\73531814e83a3f939109c098b69803df\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\17ce60bce7201eb9252d9657baa206d3\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\17ce60bce7201eb9252d9657baa206d3\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1d880eaebfc3a3366f03328a92f673dc\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1d880eaebfc3a3366f03328a92f673dc\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\66237719ff0203ecb2bb9da132943ed0\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\66237719ff0203ecb2bb9da132943ed0\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\61123fadad6b86231f02264363e8fff7\play-services-location-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\61123fadad6b86231f02264363e8fff7\play-services-location-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\034baf61ecc76093c6473880869d6c7d\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\034baf61ecc76093c6473880869d6c7d\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\55ba849a3c8a045c874d3c83b65a8453\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\55ba849a3c8a045c874d3c83b65a8453\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\716c1f7e2978d8176cc919902ad5ed92\play-services-base-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\716c1f7e2978d8176cc919902ad5ed92\play-services-base-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\167a42ffe04293bbfd266c8d78c26632\play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\167a42ffe04293bbfd266c8d78c26632\play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8767f9e832bd76545eebe6f8f59ef62a\play-services-tasks-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8767f9e832bd76545eebe6f8f59ef62a\play-services-tasks-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\379966e143550e1442447a14fea1645d\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\379966e143550e1442447a14fea1645d\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\b60d0bcb4f2e634c007f39000166f8b0\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\b60d0bcb4f2e634c007f39000166f8b0\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+		ADDED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:24:13-58

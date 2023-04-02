@@ -1,0 +1,231 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.Team7.Aasha"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_CONTACTS" />
+11-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:6:5-72
+11-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:6:22-69
+12    <uses-permission android:name="android.permission.SEND_SMS" />
+12-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:7:5-67
+12-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:8:5-65
+13-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:8:22-62
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:9:5-79
+14-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:10:5-81
+15-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:11:5-67
+16-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:12:5-76
+17-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:12:22-73
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:13:5-79
+18-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:14:5-66
+19-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:14:22-63
+20    <uses-permission android:name="android.permission.CALL_PHONE" />
+20-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:15:5-69
+20-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:15:22-66
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:16:5-67
+21-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:16:22-65
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:17:5-74
+22-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:17:22-71
+23
+24    <uses-feature
+24-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:20:5-22:36
+25        android:name="android.hardware.microphone"
+25-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:21:9-51
+26        android:required="false" />
+26-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:22:9-33
+27    <uses-feature
+27-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:23:5-25:36
+28        android:name="android.hardware.telephony"
+28-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:24:9-50
+29        android:required="false" />
+29-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:25:9-33
+30    <uses-feature android:name="android.hardware.camera" />
+30-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:27:5-60
+30-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:27:19-57
+31    <uses-feature
+31-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:28:5-30:35
+32        android:name="android.hardware.location"
+32-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:29:9-49
+33        android:required="true" />
+33-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:30:9-32
+34    <uses-feature
+34-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:31:5-33:35
+35        android:name="android.hardware.location.gps"
+35-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:32:9-53
+36        android:required="true" />
+36-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:33:9-32
+37
+38    <application
+38-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:35:5-111:19
+39        android:allowBackup="true"
+39-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:36:9-35
+40        android:debuggable="true"
+41        android:icon="@mipmap/one_plus"
+41-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:37:9-40
+42        android:label="Aasha"
+42-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:38:9-30
+43        android:testOnly="true"
+44        android:theme="@style/AppTheme" >
+44-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:39:9-40
+45        <activity
+45-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:40:9-48:20
+46            android:name="com.example.Team7.Aasha.Splash"
+46-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:41:13-58
+47            android:screenOrientation="portrait" >
+47-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:42:13-49
+48            <intent-filter>
+48-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:43:13-47:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:44:17-69
+49-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:44:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:46:17-77
+51-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:46:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:49:9-51:52
+55            android:name="com.example.Team7.Aasha.MainActivity"
+55-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:50:13-64
+56            android:screenOrientation="portrait" />
+56-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:51:13-49
+57        <activity
+57-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:52:9-54:52
+58            android:name="com.example.Team7.Aasha.PeopleSecond"
+58-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:53:13-64
+59            android:screenOrientation="portrait" />
+59-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:54:13-49
+60
+61        <receiver android:name="com.example.Team7.Aasha.VolumeChangeReceiver" >
+61-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:56:9-60:20
+61-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:56:19-78
+62            <intent-filter>
+62-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:57:13-59:29
+63                <action android:name="android.media.VOLUME_CHANGED_ACTION" />
+63-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:58:17-78
+63-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:58:25-75
+64            </intent-filter>
+65        </receiver>
+66
+67        <activity
+67-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:62:9-64:52
+68            android:name="com.example.Team7.Aasha.People"
+68-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:63:13-58
+69            android:screenOrientation="portrait" />
+69-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:64:13-49
+70        <activity
+70-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:65:9-67:61
+71            android:name="com.example.Team7.Aasha.Help"
+71-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:66:13-56
+72            android:screenOrientation="portrait" />
+72-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:67:13-49
+73        <activity
+73-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:68:9-72:59
+74            android:name="com.example.Team7.Aasha.NavigationAlert"
+74-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:69:13-67
+75            android:label="@string/title_activity_navigation_alert"
+75-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:70:13-68
+76            android:screenOrientation="portrait"
+76-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:71:13-49
+77            android:theme="@style/AppTheme.NoActionBar" />
+77-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:72:13-56
+78
+79        <!--
+80             The API key for Google Maps-based APIs is defined as a string resource.
+81             (See the file "res/values/google_maps_api.xml").
+82             Note that the API key is linked to the encryption key used to sign the APK.
+83             You need a different API key for each encryption key, including the release key that is used to
+84             sign the APK for publishing.
+85             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+86        -->
+87        <meta-data
+87-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:82:9-84:55
+88            android:name="com.google.android.geo.API_KEY"
+88-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:83:13-58
+89            android:value="@string/google_maps_key" />
+89-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:84:13-52
+90
+91        <activity
+91-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:86:9-88:61
+92            android:name="com.example.Team7.Aasha.NavigationComplaint"
+92-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:87:13-71
+93            android:screenOrientation="portrait" />
+93-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:88:13-49
+94        <activity
+94-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:89:9-91:61
+95            android:name="com.example.Team7.Aasha.TabBars"
+95-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:90:13-59
+96            android:screenOrientation="portrait" />
+96-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:91:13-49
+97        <activity
+97-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:92:9-94:61
+98            android:name="com.example.Team7.Aasha.AboutUs"
+98-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:93:13-59
+99            android:screenOrientation="portrait" />
+99-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:94:13-49
+100        <activity
+100-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:95:9-97:61
+101            android:name="com.example.Team7.Aasha.RecievedCall"
+101-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:96:13-64
+102            android:screenOrientation="portrait" />
+102-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:97:13-49
+103        <activity
+103-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:98:9-100:61
+104            android:name="com.example.Team7.Aasha.VoiceCallActivity"
+104-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:99:13-69
+105            android:screenOrientation="portrait" />
+105-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:100:13-49
+106
+107        <receiver android:name="com.example.Team7.Aasha.MyBroadcastReceiver" />
+107-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:103:9-89
+107-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:103:19-77
+108        <receiver android:name="com.example.Team7.Aasha.CallBReciever" >
+108-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:104:9-109:20
+108-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:104:19-71
+109            <intent-filter>
+109-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:106:13-108:29
+110                <action android:name="call" />
+110-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:107:17-54
+110-->E:\FinalYear Project\Aasha\app\src\main\AndroidManifest.xml:107:25-44
+111            </intent-filter>
+112        </receiver>
+113
+114        <activity
+114-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+115            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+115-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+116            android:exported="false"
+116-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+117            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+117-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+118
+119        <meta-data
+119-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+120            android:name="com.google.android.gms.version"
+120-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+121            android:value="@integer/google_play_services_version" />
+121-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+122    </application>
+123
+124</manifest>

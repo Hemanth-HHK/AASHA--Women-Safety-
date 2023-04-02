@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.Team7.Aasha"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature
+        android:name="android.hardware.location"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/one_plus"
+        android:label="Aasha"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.Team7.Aasha.Splash"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.Team7.Aasha.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Team7.Aasha.PeopleSecond"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name="com.example.Team7.Aasha.VolumeChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.media.VOLUME_CHANGED_ACTION" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.example.Team7.Aasha.People"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Team7.Aasha.Help"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Team7.Aasha.NavigationAlert"
+            android:label="@string/title_activity_navigation_alert"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name="com.example.Team7.Aasha.NavigationComplaint"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Team7.Aasha.TabBars"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Team7.Aasha.AboutUs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Team7.Aasha.RecievedCall"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.Team7.Aasha.VoiceCallActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name="com.example.Team7.Aasha.MyBroadcastReceiver" />
+        <receiver android:name="com.example.Team7.Aasha.CallBReciever" >
+            <intent-filter>
+                <action android:name="call" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

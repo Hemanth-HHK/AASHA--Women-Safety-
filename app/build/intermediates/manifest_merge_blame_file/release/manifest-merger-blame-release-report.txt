@@ -1,0 +1,229 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.Team7.Aasha"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_CONTACTS" />
+11-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:6:5-72
+11-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:6:22-69
+12    <uses-permission android:name="android.permission.SEND_SMS" />
+12-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:8:5-65
+13-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:8:22-62
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:11:5-67
+16-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:12:5-76
+17-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:12:22-73
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:13:5-79
+18-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:14:5-66
+19-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:14:22-63
+20    <uses-permission android:name="android.permission.CALL_PHONE" />
+20-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:15:5-69
+20-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:15:22-66
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:16:5-67
+21-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:16:22-65
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:17:5-74
+22-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:17:22-71
+23
+24    <uses-feature
+24-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:20:5-22:36
+25        android:name="android.hardware.microphone"
+25-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:21:9-51
+26        android:required="false" />
+26-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:22:9-33
+27    <uses-feature
+27-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:23:5-25:36
+28        android:name="android.hardware.telephony"
+28-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:24:9-50
+29        android:required="false" />
+29-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:25:9-33
+30    <uses-feature android:name="android.hardware.camera" />
+30-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:27:5-60
+30-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:27:19-57
+31    <uses-feature
+31-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:28:5-30:35
+32        android:name="android.hardware.location"
+32-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:29:9-49
+33        android:required="true" />
+33-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:30:9-32
+34    <uses-feature
+34-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:31:5-33:35
+35        android:name="android.hardware.location.gps"
+35-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:32:9-53
+36        android:required="true" />
+36-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:33:9-32
+37
+38    <application
+38-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:35:5-111:19
+39        android:allowBackup="true"
+39-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:36:9-35
+40        android:icon="@mipmap/one_plus"
+40-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:37:9-40
+41        android:label="Aasha"
+41-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:38:9-30
+42        android:theme="@style/AppTheme" >
+42-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:39:9-40
+43        <activity
+43-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:40:9-48:20
+44            android:name="com.example.Team7.Aasha.Splash"
+44-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:41:13-58
+45            android:screenOrientation="portrait" >
+45-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:42:13-49
+46            <intent-filter>
+46-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:43:13-47:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:44:17-69
+47-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:44:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:46:17-77
+49-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:46:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:49:9-51:52
+53            android:name="com.example.Team7.Aasha.MainActivity"
+53-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:50:13-64
+54            android:screenOrientation="portrait" />
+54-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:51:13-49
+55        <activity
+55-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:52:9-54:52
+56            android:name="com.example.Team7.Aasha.PeopleSecond"
+56-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:53:13-64
+57            android:screenOrientation="portrait" />
+57-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:54:13-49
+58
+59        <receiver android:name="com.example.Team7.Aasha.VolumeChangeReceiver" >
+59-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:56:9-60:20
+59-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:56:19-78
+60            <intent-filter>
+60-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:57:13-59:29
+61                <action android:name="android.media.VOLUME_CHANGED_ACTION" />
+61-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:58:17-78
+61-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:58:25-75
+62            </intent-filter>
+63        </receiver>
+64
+65        <activity
+65-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:62:9-64:52
+66            android:name="com.example.Team7.Aasha.People"
+66-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:63:13-58
+67            android:screenOrientation="portrait" />
+67-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:64:13-49
+68        <activity
+68-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:65:9-67:61
+69            android:name="com.example.Team7.Aasha.Help"
+69-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:66:13-56
+70            android:screenOrientation="portrait" />
+70-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:67:13-49
+71        <activity
+71-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:68:9-72:59
+72            android:name="com.example.Team7.Aasha.NavigationAlert"
+72-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:69:13-67
+73            android:label="@string/title_activity_navigation_alert"
+73-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:70:13-68
+74            android:screenOrientation="portrait"
+74-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:71:13-49
+75            android:theme="@style/AppTheme.NoActionBar" />
+75-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:72:13-56
+76
+77        <!--
+78             The API key for Google Maps-based APIs is defined as a string resource.
+79             (See the file "res/values/google_maps_api.xml").
+80             Note that the API key is linked to the encryption key used to sign the APK.
+81             You need a different API key for each encryption key, including the release key that is used to
+82             sign the APK for publishing.
+83             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+84        -->
+85        <meta-data
+85-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:82:9-84:55
+86            android:name="com.google.android.geo.API_KEY"
+86-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:83:13-58
+87            android:value="@string/google_maps_key" />
+87-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:84:13-52
+88
+89        <activity
+89-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:86:9-88:61
+90            android:name="com.example.Team7.Aasha.NavigationComplaint"
+90-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:87:13-71
+91            android:screenOrientation="portrait" />
+91-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:88:13-49
+92        <activity
+92-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:89:9-91:61
+93            android:name="com.example.Team7.Aasha.TabBars"
+93-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:90:13-59
+94            android:screenOrientation="portrait" />
+94-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:91:13-49
+95        <activity
+95-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:92:9-94:61
+96            android:name="com.example.Team7.Aasha.AboutUs"
+96-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:93:13-59
+97            android:screenOrientation="portrait" />
+97-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:94:13-49
+98        <activity
+98-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:95:9-97:61
+99            android:name="com.example.Team7.Aasha.RecievedCall"
+99-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:96:13-64
+100            android:screenOrientation="portrait" />
+100-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:97:13-49
+101        <activity
+101-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:98:9-100:61
+102            android:name="com.example.Team7.Aasha.VoiceCallActivity"
+102-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:99:13-69
+103            android:screenOrientation="portrait" />
+103-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:100:13-49
+104
+105        <receiver android:name="com.example.Team7.Aasha.MyBroadcastReceiver" />
+105-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:103:9-89
+105-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:103:19-77
+106        <receiver android:name="com.example.Team7.Aasha.CallBReciever" >
+106-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:104:9-109:20
+106-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:104:19-71
+107            <intent-filter>
+107-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:106:13-108:29
+108                <action android:name="call" />
+108-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:107:17-54
+108-->C:\Users\acer\Desktop\Aasha\app\src\main\AndroidManifest.xml:107:25-44
+109            </intent-filter>
+110        </receiver>
+111
+112        <activity
+112-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+113            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+113-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+114            android:exported="false"
+114-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+115            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+115-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\e6b5c8003fc8d382d7218ce6ec57d883\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+116
+117        <meta-data
+117-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+118            android:name="com.google.android.gms.version"
+118-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+119            android:value="@integer/google_play_services_version" />
+119-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\1821d72d15bd6da21c3b5d3ec7edcfc0\play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+120    </application>
+121
+122</manifest>

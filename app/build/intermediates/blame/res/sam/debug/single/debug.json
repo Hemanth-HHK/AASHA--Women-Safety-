@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_mic.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-anydpi-v21_ic_mode_edit_24dp.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-anydpi-v21\\ic_mode_edit_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-hdpi_ic_home_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-hdpi\\ic_home_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_settings.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-xxxhdpi_one_plus.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-xxxhdpi\\one_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-ldpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-ldpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_threat.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\threat.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-ldpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-ldpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_miccut.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\miccut.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_threat.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\threat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_support.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\support.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_intro_2.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\intro_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_alert2.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\alert2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_ic_home_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxxhdpi\\ic_home_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_draft.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\draft.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxhdpi_ic_group_add_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxhdpi\\ic_group_add_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-anydpi-v21_ic_pin_drop_24dp.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-anydpi-v21\\ic_pin_drop_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxhdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxhdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_backgroundgreen.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\backgroundgreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_button_shape.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xhdpi_ic_pin_drop_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xhdpi\\ic_pin_drop_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_intro_without_logo.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\intro_without_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_nav_header_navigation_alert.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\nav_header_navigation_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_domesticviolence.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\domesticviolence.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_frag_home.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\frag_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_volume_high.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\volume_high.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_threat1.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\threat1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-mdpi_ic_mode_edit_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-mdpi\\ic_mode_edit_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_corruption1.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\corruption1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xhdpi_ic_home_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xhdpi\\ic_home_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-hdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-hdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_navigation_complaint.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\navigation_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_people.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\people.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_tab_layout.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_voice_layout.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\voice_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-mdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-mdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxhdpi_ic_home_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxhdpi\\ic_home_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_list_group.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxxhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_activity_navigation_alert.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\activity_navigation_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_complaint.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\complaint.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_aboutus.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\aboutus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-hdpi_ic_group_add_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-hdpi\\ic_group_add_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_domestic_violence.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\domestic_violence.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_alertlogo.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\alertlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_corruption.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\corruption.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_circlebackgroundred.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\circlebackgroundred.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_voice.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_app_bar_navigation_alert.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\app_bar_navigation_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_help.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_backgroun_red.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\backgroun_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_audio_toggle.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\audio_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_inbox.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\inbox.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-ldpi_ic_group_add_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-ldpi\\ic_group_add_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_a.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_theft.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\theft.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_content_navigation_alert.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\content_navigation_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\raw_outgoingtone.mp3.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\raw\\outgoingtone.mp3"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_attach.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\attach.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-anydpi-v21_ic_email_24dp.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-anydpi-v21\\ic_email_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\menu_drawermenu.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\menu\\drawermenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxhdpi_ic_pin_drop_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxhdpi\\ic_pin_drop_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-hdpi_ic_pin_drop_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-hdpi\\ic_pin_drop_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_d.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_speaker_toggle.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\speaker_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_circlebackground.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\circlebackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-mdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-mdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_red_background.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\red_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xhdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xhdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_phonebook.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\phonebook.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\menu_activity_navigation_alert_drawer.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\menu\\activity_navigation_alert_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_audio_toggle_bg.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\audio_toggle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_domesticviolence1.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\domesticviolence1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_app_bar_navigation_complaint.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\app_bar_navigation_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_toolbar1.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\toolbar1.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_eve_teasing.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\eve_teasing.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-ldpi_ic_mode_edit_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-ldpi\\ic_mode_edit_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-mdpi_ic_pin_drop_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-mdpi\\ic_pin_drop_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_theft1.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\theft1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_alarm_clock.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\alarm_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-anydpi-v21_ic_home_24dp.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-anydpi-v21\\ic_home_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_about_us.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_title.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_background_login.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\background_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_content_navigation_complaint.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\content_navigation_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-mdpi_ic_group_add_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-mdpi\\ic_group_add_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_sent_layout.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\sent_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_carevault_splash.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\carevault_splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_c.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\c.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_button1_shape.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\button1_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_people_second.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\people_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_toolbar_complaint.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\toolbar_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_corruption.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\corruption.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xhdpi_ic_mode_edit_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xhdpi\\ic_mode_edit_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-mdpi_carevault_without_text.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-mdpi\\carevault_without_text.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_attachpic.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\attachpic.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxhdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-anydpi-v21_ic_keyboard_arrow_left_24dp.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-anydpi-v21\\ic_keyboard_arrow_left_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_tab_bars.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\tab_bars.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxhdpi_ic_mode_edit_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxhdpi\\ic_mode_edit_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-anydpi-v21_ic_group_add_24dp.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-anydpi-v21\\ic_group_add_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_ic_mode_edit_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxxhdpi\\ic_mode_edit_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_b.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\raw_policesiren.mp3.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\raw\\policesiren.mp3"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-hdpi_ic_mode_edit_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-hdpi\\ic_mode_edit_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_help.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_alert.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-ldpi_ic_home_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-ldpi\\ic_home_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_one_plus.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\one_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-ldpi_ic_pin_drop_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-ldpi\\ic_pin_drop_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xhdpi_ic_email_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xhdpi\\ic_email_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_theft_attempt.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\theft_attempt.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_eveteasing.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\eveteasing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_ic_group_add_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxxhdpi\\ic_group_add_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-mdpi_ic_home_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-mdpi\\ic_home_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_speaker_toggle_bg.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\speaker_toggle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_recievedcall.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\recievedcall.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\layout_toolbar_home.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\layout\\toolbar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_ic_pin_drop_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xxxhdpi\\ic_pin_drop_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_sent.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\sent.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_end_call.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\end_call.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-xxxhdpi_carevault.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-xxxhdpi\\carevault.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_mute_audio.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\mute_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xhdpi_ic_group_add_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-xhdpi\\ic_group_add_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_background_call.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\background_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-xxxhdpi_eveteasing1.jpg.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-xxxhdpi\\eveteasing1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable_background.xml.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\drawable-hdpi_ic_keyboard_arrow_left_24dp.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\generated\\res\\pngs\\sam\\debug\\drawable-hdpi\\ic_keyboard_arrow_left_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\acer\\Desktop\\Aasha\\app\\build\\intermediates\\res\\merged\\sam\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\acer\\Desktop\\Aasha\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
