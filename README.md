@@ -1,8 +1,8 @@
-# OnePlusSafety-App
-An Android App made for the women safety
+# AASHA-Safety App
+An Android App made for the women safety integrated with IOT
 
 
-Features of the app-
+Features of the app-When button on the Watch is pressed
 1. SOS/Emergency-
    Send a SMS reading- "I am In Danger" to selected 5 contacts and your GPS location to track you with just a click of a button.
 2. Complaint-
